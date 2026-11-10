@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "title": "tree",
+            "description": "",
+            "shape": "cuboid_3d",
+            "color": "#2E9E44",
+            "geometry_config": {},
+            "id": 231834,
+            "hotkey": ""
+        },
+        {
+            "title": "tree_points",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#F5A623",
+            "geometry_config": {},
+            "id": 231835,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_clouds",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Forest LiDAR Tree Annotation (FOR-instance CULS plot)",
+  "description": "A UAV LiDAR forest plot from FOR-instance, ready for labeling individual trees with 3D cuboids and point masks in the 3D point cloud editor.",
+  "type": "project",
+  "categories": [
+    "import",
+    "pointclouds",
+    "project",
+    "forestry"
+  ],
+  "icon": "https://github.com/supervisely-ecosystem/forest-lidar-tree-annotation/releases/download/v1.0.0/cover.png",
+  "icon_cover": true
+}
